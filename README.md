@@ -5,7 +5,8 @@
 All rights reserved.
 
 @license oceco@naver.com
-`
+
+```
 arrStructure = [
     {
         "Index": 0, // 번호
@@ -30,4 +31,4 @@ var instance = new TableGridAlign('id', {
         console.log(arr);
     }
 });
-`
+```
